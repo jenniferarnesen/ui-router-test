@@ -1,0 +1,19 @@
+{
+  "name": "ui-router-test",
+  "version": "0.0.0",
+  "authors": [
+    "Jennifer Jones Arnesen <jennifer.arnesen@pearson.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-ui-router": "0.2.10"
+  }
+}

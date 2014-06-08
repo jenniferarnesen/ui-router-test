@@ -1,0 +1,11 @@
+{
+  "name": "ui-router-test",
+  "version": "0.0.1",
+  "description": "Testing nested and named views together",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jennifer Arnesen",
+  "license": "MIT",
+  "homepage": "https://github.com/FronterAS/top-trumps"
+}
